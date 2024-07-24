@@ -22,3 +22,4 @@
 12. git branch : to check which  brach currently
 13. git checkout  `branch name` : to change the branch
 14. git merge `branch name` : to merge the branch name
+15. git config --system core.longpaths true : to handle the large file names in windows machine
